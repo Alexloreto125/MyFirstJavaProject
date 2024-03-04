@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -47,6 +49,20 @@ public class Main {
         printSum(2, 7);
         String risultatoStringa = sumAsString(3, 7);
         System.out.println("LA SOMMA E: " + risultatoStringa);
+
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("INSERISCI IL NOME");
+        String name = scanner.nextLine();
+        //? RICORDA DI SCRIVERE IN CONSOLE
+        System.out.println("Hai inserito " + name
+        );
+        System.out.println("inserisci Primo numero");
+        int numero = Integer.parseInt(scanner.nextLine());
+        System.out.println("inserisci secondo numero");
+        int numero2 = Integer.parseInt(scanner.nextLine());
+        System.out.println("La somma è: " + sum(numero, numero2));
+
     }
 
 
