@@ -1,0 +1,31 @@
+
+0
+java:S1220""Move this file to a named package.
+_
+java:S1854"DRemove this useless assignment to local variable "singoloCarattere".(ËÏÿÅüÿÿÿÿ
+V
+java:S1854"@Remove this useless assignment to local variable "numeroIntero".(–ìç
+Z
+java:S1854"DRemove this useless assignment to local variable "numeroNonPiccolo".(ªúËŠ
+P
+java:S1854
+"5Remove this useless assignment to local variable "x".(§İ¶Áøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Áš§¹
+@	java:S106"+Replace this use of System.out by a logger.(¼ˆş“
+A
+java:S1481	"&Remove this unused "x" local variable.(ÓÏª–şÿÿÿÿ
+K
+java:S1481"5Remove this unused "numeroNonPiccolo" local variable.(ªúËŠ
+@	java:S106"+Replace this use of System.out by a logger.(³ğ—ö
+V	java:S125"<This block of commented-out lines of code should be removed.(ˆ¬Ù¾üÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(²˜­s
+E	java:S106"+Replace this use of System.out by a logger.(£¤İüÿÿÿÿ
+P
+java:S1481"5Remove this unused "singoloCarattere" local variable.(ËÏÿÅüÿÿÿÿ
+@	java:S106!"+Replace this use of System.out by a logger.(·™ü²
+V	java:S125 "<This block of commented-out lines of code should be removed.(ê£ Õüÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(¤ÀÛ»ıÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(è Ÿº
+@	java:S106$"+Replace this use of System.out by a logger.(—õÆ
+@	java:S106)"+Replace this use of System.out by a logger.(İÇ°£
+G	java:S106*"+Replace this use of System.out by a logger.(ìœÀñ8—Ğ”Éà1
